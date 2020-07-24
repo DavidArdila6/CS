@@ -29,7 +29,7 @@ public class Aritmetica {
 		System.out.println("El logaritmo de a es: " + logaritmo);
 		
 		double potencia = Math.pow(a, b);
-		System.out.println("El resultado de la potencia de a elevado a la b es: " + potencia);
+		System.out.println("El resultado de la potencia de a elevado a la b es de: " + potencia);
 	}
 
 }
