@@ -17,7 +17,7 @@ public class CapacidadCalorica {
 		System.out.println("Cantidad de energía que se requiere para incrementar la temperatura "
 				+ "de un gramo de agua en un grado centigrado: " + cantidad);
 		
-
+		
 	}
 
 }

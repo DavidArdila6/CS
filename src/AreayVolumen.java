@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AreayVolumen {
 
-	static final double constante = (4.0/3);
+	static final double constante = (4.0/3.0);
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner (System.in);
