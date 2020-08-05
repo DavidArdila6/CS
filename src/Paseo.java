@@ -38,7 +38,7 @@ public class Paseo {
 		System.out.println ("Número de platos de comida requeridos: " + totalPlatos);
 		System.out.println ("Costo total de platos de comida: " + moneda.format(costoComidas));
 		System.out.println ("Costo total de las habitaciones: " + moneda.format(costoHabitacion));
-		System.out.println ("Costo total del paseo: " + moneda.format(costoTotal));
+		System.out.println ("Costo total del paseo.: " + moneda.format(costoTotal));
 			
 	}
 
